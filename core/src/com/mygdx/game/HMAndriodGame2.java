@@ -9,7 +9,7 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
  * AndroidGame home work 2.
  * @author Andrey Ievlev.
  * @version  9 April, 2018.
- * @Link
+ * @Link https://github.com/OLskrain/HM2_AndroidGame.git
  */
 public class HMAndriodGame2 extends ApplicationAdapter {
 	SpriteBatch batch;
